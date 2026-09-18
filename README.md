@@ -14,17 +14,17 @@ This project was developed as part of my **Java Development Internship at Oasis 
 
 ## ✨ Features
 
-- 🔐 Student login and authentication
-- 👤 Profile and password management
-- 📝 Multiple-choice examination interface
-- ⏱️ 30-minute countdown timer
-- ◀️ Previous / Next question navigation
-- ✅ Automatic answer evaluation
-- 📊 Instant score calculation
-- 📋 Correct, incorrect, and unanswered breakdown
-- ⚡ Automatic submission when time expires
-- 🖥️ Java Swing graphical interface
-- 🚪 Logout and safe exit handling
+-  Student login and authentication
+-  Profile and password management
+-  Multiple-choice examination interface
+-  30-minute countdown timer
+-  Previous / Next question navigation
+-  Automatic answer evaluation
+-  Instant score calculation
+-  Correct, incorrect, and unanswered breakdown
+-  Automatic submission when time expires
+-  Java Swing graphical interface
+-  Logout and safe exit handling
 
 ## 🛠️ Technologies & Concepts
 
@@ -150,16 +150,16 @@ Add the project demonstration video here to showcase the complete examination wo
 
 ## 🔮 Future Improvements
 
-- 🗄️ MySQL/database integration
-- 👥 Multiple student accounts
-- 🔐 Secure password hashing
-- 👨‍💼 Admin dashboard
-- ➕ Question management
-- 📈 Performance analytics
-- 🏆 Leaderboard
-- 📄 PDF result generation
-- 🔀 Randomized question sets
-- 🌐 Web version using Spring Boot
+-  MySQL/database integration
+-  Multiple student accounts
+-  Secure password hashing
+-  Admin dashboard
+-  Question management
+-  Performance analytics
+-  Leaderboard
+-  PDF result generation
+-  Randomized question sets
+-  Web version using Spring Boot
 
 ## 🙏 Acknowledgement
 
